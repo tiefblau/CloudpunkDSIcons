@@ -5,7 +5,7 @@
     	<AssemblyName>bepinex.plugin.min.cloudpunkdsicons</AssemblyName>
     	<Product>DS Icons for Cloudpunk</Product>
     	<Version>1.0.0</Version>
-		<Authors>min</Authors>
+		<Authors>tiefblau</Authors>
 		<Description>BepInEx plugin for Cloudpunk (and City of Ghosts). Replaces Xbox button prompts with PlayStation button prompts.</Description>
 		<Copyright>Copyright © 2026</Copyright>
     	<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
